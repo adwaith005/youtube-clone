@@ -1,0 +1,70 @@
+
+
+p{
+
+    font-family: roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+    
+
+
+
+.video-title{
+
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}      
+.video-stats{
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    margin-bottom: 16px;
+
+}
+.video-author{
+   
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+
+}
+.context{
+   
+
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+   
+
+}
+.appletext{
+    color: white;
+    margin-bottom: 50px;
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.span-example{
+
+    cursor: pointer;
+}
+.span-example:hover{
+
+text-decoration: underline;
+
+}
+
+
+
+
+
+
+
